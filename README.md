@@ -1,4 +1,4 @@
-# AI-Amplify
+# Copilot_Project_Submission
 README
 
 Lists all included files and their purpose:
